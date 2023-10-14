@@ -1,2 +1,0 @@
-# **Visual Representation of Findings**
-## **
