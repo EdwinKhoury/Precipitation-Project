@@ -1,4 +1,11 @@
 # **Visual Representation of Findings**
+## **Python Code Output**
+
+![Screenshot 2023-10-16 112101](https://github.com/EdwinKhoury/Rainfall-Project/assets/146214280/01f6f4bf-020c-4d3e-8d7a-5d7a4d44484f)
+
+The maximum rainfall intensity values for each year from 1986 to 2013 for the different rainfall durations are displayed in the above table.
+
+
 ## **Daily Maximum Precipitation over the Years**
 
 ![Daily Maximum Precipitation over the Years (in) (3)](https://github.com/EdwinKhoury/Rainfall-Project/assets/146214280/661fb127-7eb9-4e50-8968-c5110baed8d4)
@@ -11,3 +18,9 @@ The bar chart above illustrates the maximum 24-hour rainfall depth throughout th
 ![Theoretical vs Experimental (1)](https://github.com/EdwinKhoury/Rainfall-Project/assets/146214280/669b8574-87d1-4da2-b9bf-6227367ff202)
 
 I assessed the code's precision by contrasting the theoretically projected hourly maximum precipitation data for specific years with the empirical data published on NOAA's website. More than 60% of the theoretical results are similar to those of the experiments, proving the code's accuracy. 14 out of the 36 hourly maximums are incorrect, with an average margin of error of 0.23 inches.
+
+
+
+
+
+
